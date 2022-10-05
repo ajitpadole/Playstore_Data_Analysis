@@ -30,3 +30,21 @@ The columns of the dataset are as follows:
 12] Current Version (App)
 
 13] Android Version (Support)
+
+CONCLUSION AND FUTURE WORK :-
+Thus the app development companies could
+decide what application should be developed
+and they can also see the prediction of their
+developed application. In this they also get to
+see the categorized reviews of all the application
+in one interface which will help them decide
+which app is liked by the users and which apps
+need to be developed more.
+The dataset contains immense possibilities to
+improve business values and have a positive
+impact. It is not limited to the problem taken
+into consideration for this project.
+We could add a system that would create
+application on its own by using the data set
+and creating the best user interface by the highly
+rated apps. 
