@@ -31,20 +31,20 @@ The columns of the dataset are as follows:
 
 13] Android Version (Support)
 
+1]Observation:-
+![download](https://user-images.githubusercontent.com/109526052/194061922-7b09c58b-60fe-41bb-b7f1-0269ee34bf87.png)
+2]Observations:-
+![download](https://user-images.githubusercontent.com/109526052/194062014-5146602a-2a7a-4c46-b8e9-d5d3622b31c3.png)
+3]Observations:-
+![download](https://user-images.githubusercontent.com/109526052/194062184-22df5bde-bfbf-4aa8-83c2-d41a226c2ac2.png)
+4]Pai Chart:-
+![download](https://user-images.githubusercontent.com/109526052/194062424-7a6717aa-e6ce-4662-a3bb-e4fcb5679afc.png)
+
+
 CONCLUSION AND FUTURE WORK :-
-Thus the app development companies could
-decide what application should be developed
-and they can also see the prediction of their
-developed application. In this they also get to
-see the categorized reviews of all the application
-in one interface which will help them decide
-which app is liked by the users and which apps
-need to be developed more.
-The dataset contains immense possibilities to
-improve business values and have a positive
-impact. It is not limited to the problem taken
-into consideration for this project.
-We could add a system that would create
-application on its own by using the data set
-and creating the best user interface by the highly
-rated apps. 
+
+How every feature has a unique impact on the story
+Why exploring data is important before starting to build ML models
+How visualizations make anything interesting.
+There's a hell lot of competition in Android market.
+
